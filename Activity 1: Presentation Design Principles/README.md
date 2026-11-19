@@ -1,30 +1,39 @@
-# ☕ Activity 1: International Coffee Day Poster
+☕ Activity 1: International Coffee Day Poster
 
-## Overview
+𖠿 Overview
 
-For this activity, I created a promotional poster for **International Coffee Day**. The main goal was to create a visually appealing design that could immediately catch the audience's attention while clearly presenting the important event details.
+For this activity, I created a promotional poster for International Coffee Day. The goal was to design something visually appealing that could catch people’s attention while clearly showing the important details of the event.
 
-## Design Concept
+✧ Design Concept
 
-I chose **coffee** as the main theme because it is commonly associated with comfort, energy, relaxation, and connection. I wanted the poster to create a warm and welcoming feeling that would encourage students to participate in the event.
+I chose coffee as the main theme because it is often associated with comfort, energy, relaxation, and connection. I wanted the poster to have a warm and welcoming look that would encourage students to join the event.
 
-The main visual focus of the poster is the large **"FREE COFFEE"** text, which serves as the first element that catches the viewer's attention.
+The main highlight of the design is the large “FREE COFFEE” text, which serves as the first thing viewers notice and helps communicate the main offer right away.
 
-## Design Elements
+☕ Design Elements
 
-- **Theme:** International Coffee Day
-- **Main Visual:** Coffee
-- **Main Text:** FREE COFFEE
-- **Color Palette:** Warm brown and coffee-inspired tones
-- **Typography:** Designed to be clear and eye-catching
-- **Layout:** Organized to make the event information easy to find
+Element	Description
+Theme	International Coffee Day
+Main Visual	Coffee
+Main Text	FREE COFFEE
+Color Palette	Warm brown and coffee-inspired tones
+Typography	Clear and eye-catching fonts
+Layout	Organized placement of text and visuals for easy reading
 
-## Purpose
+✧ Purpose
 
-The purpose of this poster is to **promote the International Coffee Day event** while creating excitement and encouraging the audience to participate.
+The poster was created to promote the International Coffee Day event, attract attention, and encourage students to participate.
 
-## What I Learned
+☕ What I Learned
 
-Through this activity, I learned that an effective poster should not only contain information but should also communicate a message visually. The use of color, typography, images, and layout should work together to attract attention and make the information easy to understand.
+Through this activity, I learned that creating an effective poster is not just about making it look good. It is also important to present information clearly and make sure that the design elements work together. Colors, typography, images, and layout all help communicate the message and make the poster more appealing.
 
-> **Design is not only about making something beautiful — it is about making the message easier to understand.**
+⸻
+
+<div align="center">
+
+Good design catches attention, but clear messages make it meaningful.
+
+♡ Create • Design • Communicate ♡
+
+</div>
