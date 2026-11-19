@@ -1,5 +1,5 @@
  <div align="center">
- <img src="header 2.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
+  <img src="header 2.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
 </div>
 
 <br>
