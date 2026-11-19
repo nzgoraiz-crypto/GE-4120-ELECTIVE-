@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Replit Implementation Banner">
+</div>
+
+<br>
+
  <div align="center">
 
 ✧ Activity 6
