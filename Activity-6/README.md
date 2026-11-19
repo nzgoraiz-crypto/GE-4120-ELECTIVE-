@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Replit Implementation Banner">
+  <img src="banner-2.png" width="100%" alt="Replit Implementation Banner">
 </div>
 <br>
 
