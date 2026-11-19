@@ -4,7 +4,7 @@
 
 <br>
 
-
+<div align="center">
 ☕ Activity 1: International Coffee Day Poster
 
 𖠿 Overview
