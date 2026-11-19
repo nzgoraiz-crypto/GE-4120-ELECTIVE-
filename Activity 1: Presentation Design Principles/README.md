@@ -41,6 +41,6 @@ Good design does not only catch attention; it also makes the message easier to u
 
 Create • Design • Communicate
 
-♡ A little creativity goes a long way. ♡
+♡ A little creativity goes a long way♡
 
 </div>
