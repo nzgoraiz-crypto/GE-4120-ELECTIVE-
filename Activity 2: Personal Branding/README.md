@@ -1,7 +1,6 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Latterato Brand Identity Banner">
 </div>
-
 <br>
 
 ☕📸 Activity 2: Latterato Brand Identity
@@ -35,10 +34,10 @@ The coffee element represents the shop’s main product, while the photography e
 I used different shades of brown to create a warm, cozy, and coffee-inspired visual identity.
 
 Color	Hex Code
-■ Brown	#6D3E29
-■ Deep Brown	#572D12
-■ Coffee Brown	#562C11
-■ Dark Brown	#361F1A
+Brown	#6D3E29
+Deep Brown	#572D12
+Coffee Brown	#562C11
+Dark Brown	#361F1A
 
 These colors reflect the warmth and richness commonly associated with coffee.
 
