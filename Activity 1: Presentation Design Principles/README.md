@@ -1,13 +1,10 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="International Coffee Day Banner">
 </div>
-
 <br>
 
-<div align="center">
 ☕ Activity 1: International Coffee Day Poster
-<br>
-  
+
 𖠿 Overview
 
 For this activity, I created a promotional poster for International Coffee Day. The goal was to design something visually appealing that could catch people’s attention while clearly showing the important details of the event.
@@ -36,12 +33,14 @@ The poster was created to promote the International Coffee Day event, attract at
 
 Through this activity, I learned that creating an effective poster is not just about making it look good. It is also important to present information clearly and make sure that the design elements work together. Colors, typography, images, and layout all help communicate the message and make the poster more appealing.
 
+Good design does not only catch attention; it also makes the message easier to understand.
+
 ⸻
 
 <div align="center">
 
-Good design catches attention, but clear messages make it meaningful.
+Create • Design • Communicate
 
-♡ Create • Design • Communicate ♡
+♡ A little creativity goes a long way. ♡
 
 </div>
