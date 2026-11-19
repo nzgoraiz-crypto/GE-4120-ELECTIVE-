@@ -1,84 +1,75 @@
- <div align="center">
-
-𓂃 Google Workspace
-
-How to Use Google Docs
-
-Midterm Presentation · Group 5
-
-✧ ─────────────── ✧
-
-GE 4120 — 21st Century IT Skills
-
+<div align="center">
+  <img src="banner.png" width="100%" alt="Google Docs Presentation Banner">
 </div>
+<br>
 
-⸻
+📄 Activity 6: Midterm Presentation – Google Workspace: How to Use Google Docs
 
-𖠿 About the Project
+𖠿 Overview
 
-This repository contains the midterm presentation of Group 5 about Google Docs, a web-based word-processing application developed by Google.
+For our midterm presentation, Group 5 discussed Google Docs, a web-based word-processing application developed by Google.
 
-The presentation introduces its main features, uses, and practical applications in school, at home, at work, and in small businesses.
+The presentation introduced its main features, tools, and practical applications in school, at home, at work, and in small businesses.
 
-It also includes a demonstration and an interactive activity called “Live Google Docs Race” to help participants practice using Google Docs and experience real-time collaboration.
+It also included a live demonstration and an interactive activity called “Live Google Docs Race”, which allowed participants to practice using Google Docs and experience real-time collaboration.
 
-✧ Objectives
+✧ Presentation Objectives
 
-Through this presentation, participants are expected to:
+The presentation aimed to:
 
 * Understand what Google Docs is and how it works.
-* Explore its features and tools.
+* Explore its different features and tools.
 * Learn how to create, edit, format, and share documents.
-* Understand real-time collaboration and document permissions.
-* Identify practical uses of Google Docs in different settings.
-* Apply the discussed features through a demonstration and interactive activity.
+* Understand collaboration features and sharing permissions.
+* Identify its practical applications in everyday activities.
+* Apply the lessons through a demonstration and interactive activity.
 
-📚 Topics Covered
+📄 Topics Discussed
 
-The presentation discusses the following topics:
+The presentation covered the following topics:
 
 1. Introduction to Google Docs
 2. Creating and editing documents
 3. Real-time collaboration
-4. Sharing and permission settings
+4. Sharing and document permissions
 5. Comments and Suggesting mode
 6. Version history and automatic saving
-7. Templates and text formatting
-8. Tables, images, links, and drawings
+7. Templates and formatting tools
+8. Adding tables, images, links, and drawings
 9. Voice typing
 10. Downloading and exporting documents
 11. Practical applications of Google Docs
-12. Live demonstration
+12. Live demonstration and interactive activity
 
-☕ Applications of Google Docs
+✧ Practical Applications
 
 Google Docs can be used in different areas of everyday life:
 
-Setting	Practical Applications
+Setting	Examples of Use
 School	Group projects, assignments, essays, lecture notes, study guides, and thesis drafts
-Home and Personal	To-do lists, journals, trip itineraries, event planning, and shopping lists
+Home / Personal	To-do lists, journals, trip itineraries, event planning, and shopping lists
 Work	Meeting agendas, reports, proposals, project plans, and standard operating procedures
-Small Business and Side Projects	Business plans, client proposals, flyers, product descriptions, and process guides
+Small Businesses	Business plans, client proposals, flyers, product descriptions, and process guides
 
-🏁 Interactive Activity: Live Google Docs Race
+🎯 Interactive Activity: Live Google Docs Race
 
-The presentation includes an interactive activity where participants work in their reporting groups to complete five tasks in a shared Google Docs document.
+To make the presentation more engaging, we prepared an interactive activity called “Live Google Docs Race.”
 
-Instructions
+Participants were divided into groups and asked to work together using a shared Google Docs document. Each group had to complete five assigned tasks as quickly and correctly as possible.
 
-1. Form groups according to the assigned reporting groups.
-2. Open the Google Docs link provided by the presenters.
-3. Complete all five tasks as quickly as possible.
-4. Do not delete or modify the work of other participants.
-5. Raise your hand once your team has finished.
+Activity Instructions
 
-Winning Condition: The first team to correctly complete all five tasks wins!
+1. Form the assigned groups.
+2. Open the provided Google Docs link.
+3. Work together to complete the five tasks.
+4. Avoid deleting or changing the work of other groups.
+5. Raise your hand once all tasks are completed.
 
-🖥️ Presentation and Demonstration
+The first team to correctly complete all five tasks would win the activity.
 
-The presentation includes a discussion of Google Docs features, practical examples, and a live demonstration to help participants understand how the application works and how its tools can be used in everyday tasks.
+This activity allowed participants to experience how Google Docs supports teamwork and real-time document collaboration.
 
-♡ Group Members
+✧ Group Members
 
 Group 5
 
@@ -92,20 +83,26 @@ Group 5
 * Samsurin
 * Panague
 
-✧ Conclusion
+✧ Purpose
 
-Google Docs is a useful tool for creating and managing documents, sharing information, and collaborating with others in real time.
+The purpose of this presentation was to introduce Google Docs as a useful tool for creating, editing, organizing, and sharing documents.
 
-Through this presentation and interactive activity, participants can better understand its features and how it can support academic, personal, and professional tasks.
+Through the discussion, demonstration, and interactive activity, we aimed to show how it can be used in different settings and how its collaboration features can make working with others easier.
+
+📄 What I Learned
+
+Through this group presentation, I learned more about the different features of Google Docs and how it can be used beyond simply typing and editing documents.
+
+I also realized how useful real-time collaboration can be, especially when working on group activities and school requirements. Preparing the presentation and interactive activity helped me understand the application better while also giving us the opportunity to share what we learned with others.
+
+Technology makes creating and working together easier when we know how to use it effectively.
 
 ⸻
 
 <div align="center">
 
-Prepared with collaboration and creativity.
+Create • Collaborate • Communicate
 
-Group 5 · GE 4120
-
-♡ Learning • Sharing • Collaborating ♡
+♡ Working smarter, together ♡
 
 </div>
