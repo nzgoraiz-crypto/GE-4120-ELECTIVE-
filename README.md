@@ -1,4 +1,8 @@
  <div align="center">
+<img src="header.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
+</div>
+
+<br>
 
 
 GE 4120 — 21st Century IT Skills
