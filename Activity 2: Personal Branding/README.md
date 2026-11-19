@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Latterato Brand Identity Banner">
+</div>
+
+<br>
+
 ☕📸 Activity 2: Latterato Brand Identity
 
 𖠿 Overview
