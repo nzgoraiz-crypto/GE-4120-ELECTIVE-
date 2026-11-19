@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="profile.jpg" width="150" alt="Noreen Oraiz">
+  <img src="Profile.jpg" width="150" alt="Noreen Oraiz">
   <h1>Noreen Zeta G. Oraiz</h1>
   <p>BS Nursing | 4th Year | Ateneo de Davao University</p>
 </div>
