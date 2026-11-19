@@ -1,13 +1,13 @@
  <div align="center">
-  <img src="header 2.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
+<img src="header 2.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
 </div>
-
 <br>
-
 
 GE 4120 — 21st Century IT Skills
 
-* A collection of learning, creativity, and digital exploration. *
+<div align="center">
+
+A collection of learning, creativity, and digital exploration.
 
 </div>
 
@@ -25,13 +25,13 @@ Welcome to my GE 4120 – Elective: 21st Century IT Skills activity hub! This re
 
 This activity focuses on the basic principles of creating effective and visually appealing presentations. It helped me understand how design, layout, colors, fonts, and visual elements can improve the way information is presented.
 
-02. Personal Branding
+02. Personal Branding – Latterato
 
-This activity is about developing and presenting my personal brand. It focuses on identifying my strengths, personality, skills, and how I can communicate my identity effectively through digital platforms.
+This activity involves creating a coffee shop brand concept called Latterato. It focuses on developing a brand identity through its logo, color palette, typography, tagline, and overall customer experience.
 
-03. Social Media Infographic
+03. Social Media Infographic – Waiting for Care
 
-This activity focuses on creating an infographic designed for social media. It combines information, visuals, colors, and design principles to communicate a message in a simple and engaging way.
+This activity focuses on creating a healthcare-related infographic about reducing hospital waiting time through a digital queue management system. It demonstrates how technology and visual communication can help address real-world problems.
 
 04. Exploring and Improving AI Prompts
 
@@ -50,13 +50,10 @@ This group presentation focuses on Google Docs, a web-based word-processing appl
 ☕ A Little About Me
 
 	
-Name: Noreen Oraiz
-
-Age: 22 years old
-
-Course: GE 4120 – 21st Century IT Skills
-
-Repository: Activity Hub
+Name	Noreen Oraiz
+Age	22 years old
+Course	GE 4120 – 21st Century IT Skills
+Repository	Activity Hub
 
 ⸻
 
@@ -76,6 +73,6 @@ Thank you for visiting my activity hub!
 
 ♡ Learning • Creating • Exploring • Growing ♡
 
-Noreen Oraiz
+Noreen Zeta G. Oraiz
 
 </div>
