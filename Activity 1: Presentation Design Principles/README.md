@@ -6,7 +6,8 @@
 
 <div align="center">
 ☕ Activity 1: International Coffee Day Poster
-
+<br>
+  
 𖠿 Overview
 
 For this activity, I created a promotional poster for International Coffee Day. The goal was to design something visually appealing that could catch people’s attention while clearly showing the important details of the event.
