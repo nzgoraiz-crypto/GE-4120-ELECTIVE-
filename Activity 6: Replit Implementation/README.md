@@ -1,32 +1,47 @@
-💻 Activity 6: Making a Website
+ <div align="center">
 
-Overview
+✧ Activity 6
 
-For this activity, I created a website using Replit for the first time. The main goal was to explore website development and learn how to create a functional and informative website using an online coding platform.
+Replit Implementation
 
-Website Concept
+Turning ideas into a working digital project.
 
-I used Replit as my platform for creating the website. Since this was my first time using it, the activity allowed me to explore its features and understand how different elements come together to build a website.
+</div>
 
-I wanted the website to present its information in an organized, accessible, and user-friendly way.
+⸻
 
-Development Elements
+𖠿 About the Activity
 
-* Platform: Replit
-* Project: Website Creation
-* Development Tool: Replit AI and code editor
-* Main Focus: Creating a functional and informative website
-* Layout: Organized and user-friendly
-* Output: A completed website
+This activity focuses on using Replit, an online coding platform, to explore website development and apply the concepts and skills learned throughout the course.
 
-Purpose
+Through this activity, I had the opportunity to work on creating and implementing a website while becoming more familiar with the tools and features of the platform.
 
-The purpose of this activity is to develop basic website creation skills and explore how technology can be used to organize and present information. It also aims to help me recognize the importance of digital skills in learning and future nursing practice.
+✧ What I Did
 
-What I Learned
+01. Exploring Replit
 
-Through this activity, I learned how to use Replit as a platform for creating a website. Since it was my first time exploring website development, I initially found the process unfamiliar, but it became easier as I followed the steps and experimented with the platform.
+I started by exploring the Replit platform and familiarizing myself with its interface, tools, and features. This helped me understand how to create and manage a project within the platform.
 
-As a student nurse, I realized that learning about technology is also important in our profession. Digital tools can help improve the way we access information, provide health education, and support patient care. This activity reminded me that nursing also involves continuous learning and adapting to new technologies.
+02. Website Implementation
 
-Technology is not separate from nursing — it can be another tool to improve learning and healthcare.
+I used Replit to work on my website by applying the instructions and making use of the available coding tools. This allowed me to experience how website ideas can be translated into an actual digital output.
+
+03. Testing and Improving
+
+I reviewed my work and made adjustments to improve the website’s appearance and functionality. Through this process, I became more familiar with how small changes in the code can affect the final result.
+
+☕ What I Learned
+
+Through this activity, I learned how Replit can make website development more accessible and convenient, especially for beginners. I also gained a better understanding of how coding tools can be used to create digital projects.
+
+This experience helped me become more comfortable exploring technology, solving problems, and learning new digital skills.
+
+⸻
+
+<div align="center">
+
+Every project starts with an idea and grows through learning.
+
+♡ Exploring • Creating • Improving ♡
+
+</div>
