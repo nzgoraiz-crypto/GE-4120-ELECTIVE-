@@ -4,6 +4,7 @@
 
 <br>
 
+<div align="center">
 ✧ Activity 5
 
 Exploring and Improving AI Prompts
