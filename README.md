@@ -1,6 +1,10 @@
  <div align="center">
 
-𓂃 GE 4120
+𓂃 <div align="center">
+  <img src="header.png" width="100%" alt="GE 4120 - 21st Century IT Skills">
+</div>
+
+<br>
 
 21st Century IT Skills
 
