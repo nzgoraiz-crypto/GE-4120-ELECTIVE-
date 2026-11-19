@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="International Coffee Day Banner">
+</div>
+
+<br>
+
+
 ☕ Activity 1: International Coffee Day Poster
 
 𖠿 Overview
