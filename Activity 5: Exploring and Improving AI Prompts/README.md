@@ -1,4 +1,8 @@
  <div align="center">
+  <img src="banner.png" width="100%" alt="AI Prompts Activity Banner">
+</div>
+
+<br>
 
 ✧ Activity 5
 
