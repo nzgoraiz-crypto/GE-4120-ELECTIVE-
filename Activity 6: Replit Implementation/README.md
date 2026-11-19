@@ -1,53 +1,50 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Replit Implementation Banner">
 </div>
-
 <br>
 
- <div align="center">
+💻 Activity 5: Replit Implementation
 
-✧ Activity 6
+𖠿 Overview
 
-Replit Implementation
+For this activity, I explored Replit, an online platform that allows users to write, run, and develop code directly in a web browser.
 
-Turning ideas into a working digital project.
+The activity introduced me to website development and gave me the opportunity to apply what I learned by working on a website project.
 
-</div>
+✧ Exploring Replit
 
-⸻
+I used Replit to become familiar with its workspace and coding environment. Through the platform, I explored how code is written, edited, and executed to create a working website.
 
-𖠿 About the Activity
+This activity also allowed me to experience how different parts of a website come together to form a complete digital output.
 
-This activity focuses on using Replit, an online coding platform, to explore website development and apply the concepts and skills learned throughout the course.
+💻 What I Did
 
-Through this activity, I had the opportunity to work on creating and implementing a website while becoming more familiar with the tools and features of the platform.
+1. Explored the Platform – Became familiar with Replit and its coding workspace.
+2. Worked on the Website – Used the platform to implement a website.
+3. Reviewed the Output – Observed how changes in the code affected the website.
+4. Made Adjustments – Worked on improving the website during implementation.
+5. Applied What I Learned – Used the activity as an opportunity to practice website development.
 
-✧ What I Did
+✧ Purpose
 
-01. Exploring Replit
+The purpose of this activity was to introduce the use of online coding tools and demonstrate how technology can be used to develop websites.
 
-I started by exploring the Replit platform and familiarizing myself with its interface, tools, and features. This helped me understand how to create and manage a project within the platform.
+It also allowed me to explore a different way of creating digital projects beyond traditional document and presentation tools.
 
-02. Website Implementation
+✧ What I Learned
 
-I used Replit to work on my website by applying the instructions and making use of the available coding tools. This allowed me to experience how website ideas can be translated into an actual digital output.
+Through this activity, I learned that website development involves more than just writing code. It also requires patience, creativity, problem-solving, and attention to detail.
 
-03. Testing and Improving
+As someone who was still exploring website development, using Replit gave me the opportunity to become more familiar with coding and understand how ideas can be turned into actual websites.
 
-I reviewed my work and made adjustments to improve the website’s appearance and functionality. Through this process, I became more familiar with how small changes in the code can affect the final result.
-
-☕ What I Learned
-
-Through this activity, I learned how Replit can make website development more accessible and convenient, especially for beginners. I also gained a better understanding of how coding tools can be used to create digital projects.
-
-This experience helped me become more comfortable exploring technology, solving problems, and learning new digital skills.
+Every digital project starts with an idea and the willingness to explore.
 
 ⸻
 
 <div align="center">
 
-Every project starts with an idea and grows through learning.
+Explore • Code • Create
 
-♡ Exploring • Creating • Improving ♡
+♡ Turning ideas into digital projects ♡
 
 </div>
