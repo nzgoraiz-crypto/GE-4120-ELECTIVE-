@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Waiting for Care Banner">
+</div>
+
+<br>
+
 🏥 Activity 3: Waiting for Care Infographic
 
 𖠿 Overview
