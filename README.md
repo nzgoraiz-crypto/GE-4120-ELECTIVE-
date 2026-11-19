@@ -46,10 +46,10 @@ This group presentation focuses on Google Docs, a web-based word-processing appl
 ☕ A Little About Me
 
 	
-Name	Noreen Oraiz
-Age	22 years old
-Course	GE 4120 – 21st Century IT Skills
-Repository	Activity Hub
+Name: Noreen Oraiz
+Age: 22 years old
+Course: GE 4120 – 21st Century IT Skills
+Repository: Activity Hub
 
 ⸻
 
